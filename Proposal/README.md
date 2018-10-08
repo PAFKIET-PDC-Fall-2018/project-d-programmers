@@ -8,11 +8,23 @@
   -  Mohammad Hamza (58998)
   -  Syed Monis Azhar (59485)  
   
-  
+  [Proposal Document](https://github.com/PAFKIET-PDC-Fall-2018/project-d-programmers/blob/master/Proposal/Project%20proposal.docx)
   
 ### Abstract
 
 Server and client side both are code concern with middle ware. If servers are more than two, it’s not a problem. Because they are connect with middle ware. Middle ware can easily manage multiple servers. Middle ware send services of both ends client and server. Client remotely controlled servers. Client and server process exchange information or data. Sockets we had already discussed which is a great for execute the client and server inter process communication while concealing lower layer usage subtle elements from the higher layer conceptual tasks.  Also we are use TCP Listener for connectivity. We will make windows form application on  either C# or C
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
