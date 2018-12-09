@@ -1,0 +1,15 @@
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\bin\Debug\RCAU_Client.exe.config
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\bin\Debug\RCAU_Client.exe
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\bin\Debug\RCAU_Client.pdb
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\bin\Debug\Interop.WMPLib.dll
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\bin\Debug\AxInterop.WMPLib.dll
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Server.csprojAssemblyReference.cache
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\Interop.WMPLib.dll
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\AxInterop.WMPLib.dll
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Server.csproj.ResolveComReference.cache
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Client.Form1.resources
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Client.Properties.Resources.resources
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Server.csproj.GenerateResource.cache
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Server.csproj.CoreCompileInputs.cache
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Client.exe
+E:\Courses\PCD\PCD_PRO\RCAU_Server\RCAU_Client\obj\Debug\RCAU_Client.pdb

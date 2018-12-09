@@ -1,9 +1,0 @@
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\bin\Debug\RCAU_Client.exe.config
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\bin\Debug\RCAU_Client.exe
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\bin\Debug\RCAU_Client.pdb
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\obj\Debug\RCAU_Client.Form1.resources
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\obj\Debug\RCAU_Client.Properties.Resources.resources
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\obj\Debug\RCAU_Client.csproj.GenerateResource.cache
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\obj\Debug\RCAU_Client.csproj.CoreCompileInputs.cache
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\obj\Debug\RCAU_Client.exe
-E:\Courses\PCD\PCD_PRO\RCAU_Client\RCAU_Client\obj\Debug\RCAU_Client.pdb
