@@ -15,6 +15,7 @@ namespace MiddlewareLibrary.Types
         UploadPlayList,
         UploadFile,
         PlayRandomVideo,
+        PlayVideo,
         Query,
         MiddlewareCommand,
         ServerList,
