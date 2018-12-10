@@ -4,7 +4,7 @@ using System.Net.Sockets;
 namespace MiddlewareLibrary
 {
     /// <summary>
-    /// Developer: Syed Monis Azhar [59485]
+    /// Developer: Arbaz Ahmed [59008]
     /// </summary>
     [Serializable]
     public class ConnectionModel
