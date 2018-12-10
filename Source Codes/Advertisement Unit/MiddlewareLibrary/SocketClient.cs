@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace MiddlewareLibrary
 {
     /// <summary>
-    /// Developer: Syed Monis Azhar [59485]
+    /// Developer: Syed Monis Azhar [59485], Arbaz Ahmed [59008]
     /// </summary>
     class SocketClient
     {
