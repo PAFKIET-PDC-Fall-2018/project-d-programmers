@@ -4,7 +4,7 @@ using System;
 namespace MiddlewareLibrary
 {
     /// <summary>
-    /// Developer: Syed Monis Azhar [59485]
+    /// Developer: Syed Monis Azhar [59485] 
     /// </summary>
     [Serializable]
     public class MessageModel
