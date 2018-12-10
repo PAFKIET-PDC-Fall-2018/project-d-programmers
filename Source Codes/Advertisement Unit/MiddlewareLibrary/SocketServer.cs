@@ -14,7 +14,7 @@ using MiddlewareLibrary.Utilities;
 namespace MiddlewareLibrary
 {
     /// <summary>
-    /// Developer: Syed Monis Azhar [59485]
+    /// Developer:  Syed Monis Azhar [59485]
     /// </summary>
     public class SocketServer
     {
